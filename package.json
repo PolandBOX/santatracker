@@ -1,0 +1,10 @@
+{
+    "name": "santatracker",
+    "main": "index.js",
+    "version": "1.0.2",
+    "author": "hasanoes",
+    "license": "ISC",
+    "keywords": [
+        "countdown", "track", "santa", "claus", "winter", "timer"
+    ]
+}
